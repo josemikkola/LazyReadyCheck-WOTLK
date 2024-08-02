@@ -1,4 +1,4 @@
-LazyReadyCheck for wotlk 3.3.5a (warmane etc)
+<h1><b>LazyReadyCheck for wotlk 3.3.5a (warmane etc)</b></h1>
 
 Lazy Ready Check accepts ready checks for you
 
