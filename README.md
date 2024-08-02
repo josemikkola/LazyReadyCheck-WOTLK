@@ -20,5 +20,5 @@ Code:
 
 automatic raid check ready check warmane wotlk 3.3.5a downport afk smoke
 
-From: https://www.wowinterface.com/downloads/info23672-LazyReadyCheck.html
+From: https://www.wowinterface.com/downloads/info23672-LazyReadyCheck.html<br>
 Credits: https://www.wowinterface.com/forums/member.php?action=getinfo&userid=327599
