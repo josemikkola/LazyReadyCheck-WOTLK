@@ -1,5 +1,8 @@
 <h1><b>LazyReadyCheck for wotlk 3.3.5a (warmane etc)</b></h1>
 
+
+<b><a href=https://github.com/josemikkola/LazyReadyCheck-WOTLK/archive/refs/heads/master.zip>DOWNLOAD HERE</a></b><br>
+
 Lazy Ready Check accepts ready checks for you
 
 After the raid leader sends out a ready check, between one and five seconds you will accept the ready check!
